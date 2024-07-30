@@ -1,0 +1,21 @@
+23:30:17 **** Incremental Build of configuration Debug for project BNO085_driver ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -DUSE_FULL_LL_DRIVER -c -I../Core/Inc -I"C:/Users/bnarb/STM32CubeIDE/workspace_1.15.0/BNO085_driver" -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -I../USB_DEVICE/App -I../USB_DEVICE/Target -I../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+../Core/Src/main.c: In function 'main':
+../Core/Src/main.c:97:15: warning: variable 'quatRadianAccuracy' set but not used [-Wunused-but-set-variable]
+   97 |         float quatRadianAccuracy;
+      |               ^~~~~~~~~~~~~~~~~~
+arm-none-eabi-gcc -o "BNO085_driver.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\BNO085_driver\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="BNO085_driver.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -u _scanf_float -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: BNO085_driver.elf
+ 
+arm-none-eabi-size  BNO085_driver.elf 
+arm-none-eabi-objdump -h -S BNO085_driver.elf  > "BNO085_driver.list"
+   text	   data	    bss	    dec	    hex	filename
+  60364	    848	   6688	  67900	  1093c	BNO085_driver.elf
+Finished building: default.size.stdout
+ 
+Finished building: BNO085_driver.list
+ 
+
+23:30:18 Build Finished. 0 errors, 1 warnings. (took 1s.48ms)
+

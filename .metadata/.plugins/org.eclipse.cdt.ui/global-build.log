@@ -1,0 +1,78 @@
+00:18:26 **** Incremental Build of configuration Debug for project test_board ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/BNO080.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F405xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../USB_DEVICE/App -I../USB_DEVICE/Target -I../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/BNO080.d" -MT"Core/Src/BNO080.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/BNO080.o"
+../Core/Src/BNO080.c: In function 'BNO080_Initialization':
+../Core/Src/BNO080.c:102:9: warning: implicit declaration of function 'printf' [-Wimplicit-function-declaration]
+  102 |         printf("Checking BNO080...");
+      |         ^~~~~~
+../Core/Src/BNO080.c:48:1: note: include '<stdio.h>' or provide a declaration of 'printf'
+   47 | #include <math.h>
+  +++ |+#include <stdio.h>
+   48 | #include "stm32f4xx_hal.h"
+../Core/Src/BNO080.c:102:9: warning: incompatible implicit declaration of built-in function 'printf' [-Wbuiltin-declaration-mismatch]
+  102 |         printf("Checking BNO080...");
+      |         ^~~~~~
+../Core/Src/BNO080.c:102:9: note: include '<stdio.h>' or provide a declaration of 'printf'
+../Core/Src/BNO080.c: In function 'BNO080_readFRSdata':
+../Core/Src/BNO080.c:651:25: warning: incompatible implicit declaration of built-in function 'printf' [-Wbuiltin-declaration-mismatch]
+  651 |                         printf("metaData array over run. Returning.");
+      |                         ^~~~~~
+../Core/Src/BNO080.c:651:25: note: include '<stdio.h>' or provide a declaration of 'printf'
+../Core/Src/BNO080.c: In function 'BNO080_waitForSPI':
+../Core/Src/BNO080.c:950:9: warning: incompatible implicit declaration of built-in function 'printf' [-Wbuiltin-declaration-mismatch]
+  950 |         printf("\nData not available\n");
+      |         ^~~~~~
+../Core/Src/BNO080.c:950:9: note: include '<stdio.h>' or provide a declaration of 'printf'
+arm-none-eabi-gcc -o "test_board.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\STM32F405RGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="test_board.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: test_board.elf
+ 
+arm-none-eabi-size  test_board.elf 
+arm-none-eabi-objdump -h -S test_board.elf  > "test_board.list"
+   text	   data	    bss	    dec	    hex	filename
+  56264	    352	  28368	  84984	  14bf8	test_board.elf
+Finished building: default.size.stdout
+ 
+Finished building: test_board.list
+ 
+00:18:34 **** Incremental Build of configuration Debug for project test_board ****
+make -j12 all 
+arm-none-eabi-size  test_board.elf 
+   text	   data	    bss	    dec	    hex	filename
+  56264	    352	  28368	  84984	  14bf8	test_board.elf
+Finished building: default.size.stdout
+ 
+00:21:10 **** Incremental Build of configuration Debug for project test_board ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F405xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../USB_DEVICE/App -I../USB_DEVICE/Target -I../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "test_board.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\STM32F405RGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="test_board.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: test_board.elf
+ 
+arm-none-eabi-size  test_board.elf 
+arm-none-eabi-objdump -h -S test_board.elf  > "test_board.list"
+   text	   data	    bss	    dec	    hex	filename
+  56264	    352	  28368	  84984	  14bf8	test_board.elf
+Finished building: default.size.stdout
+ 
+Finished building: test_board.list
+ 
+00:24:21 **** Incremental Build of configuration Debug for project test_board ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F405xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../USB_DEVICE/App -I../USB_DEVICE/Target -I../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/main.o"
+arm-none-eabi-gcc -o "test_board.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\STM32F405RGTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="test_board.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: test_board.elf
+ 
+arm-none-eabi-size  test_board.elf 
+arm-none-eabi-objdump -h -S test_board.elf  > "test_board.list"
+   text	   data	    bss	    dec	    hex	filename
+  56264	    352	  28368	  84984	  14bf8	test_board.elf
+Finished building: default.size.stdout
+ 
+Finished building: test_board.list
+ 
+00:25:03 **** Incremental Build of configuration Debug for project test_board ****
+make -j12 all 
+arm-none-eabi-size  test_board.elf 
+   text	   data	    bss	    dec	    hex	filename
+  56264	    352	  28368	  84984	  14bf8	test_board.elf
+Finished building: default.size.stdout
+ 

@@ -1,0 +1,17 @@
+23:36:17 **** Incremental Build of configuration Debug for project spi_dma_bno85_F103 ****
+make -j12 all 
+arm-none-eabi-gcc "../Core/Src/main.c" -mcpu=cortex-m3 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F103xB -c -I../Core/Inc -I../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy -I../Drivers/STM32F1xx_HAL_Driver/Inc -I../Drivers/CMSIS/Device/ST/STM32F1xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM3 -I../USB_DEVICE/App -I../USB_DEVICE/Target -I../Middlewares/ST/STM32_USB_Device_Library/Core/Inc -I../Middlewares/ST/STM32_USB_Device_Library/Class/CDC/Inc -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/main.d" -MT"Core/Src/main.o" --specs=nano.specs -mfloat-abi=soft -mthumb -o "Core/Src/main.o"
+arm-none-eabi-g++ -o "spi_dma_bno85_F103.elf" @"objects.list"   -mcpu=cortex-m3 -T"C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\spi_dma_bno85_F103\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="spi_dma_bno85_F103.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -lstdc++ -lsupc++ -Wl,--end-group
+Finished building target: spi_dma_bno85_F103.elf
+ 
+arm-none-eabi-size  spi_dma_bno85_F103.elf 
+arm-none-eabi-objdump -h -S spi_dma_bno85_F103.elf  > "spi_dma_bno85_F103.list"
+   text	   data	    bss	    dec	    hex	filename
+  62464	    488	  13736	  76688	  12b90	spi_dma_bno85_F103.elf
+Finished building: default.size.stdout
+ 
+Finished building: spi_dma_bno85_F103.list
+ 
+
+23:36:19 Build Finished. 0 errors, 0 warnings. (took 1s.202ms)
+

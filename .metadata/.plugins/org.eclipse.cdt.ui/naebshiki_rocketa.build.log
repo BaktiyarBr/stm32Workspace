@@ -1,0 +1,10 @@
+23:21:49 **** Build of configuration Debug for project naebshiki_rocketa ****
+make -j12 all 
+arm-none-eabi-size  naebshiki_rocketa.elf 
+   text	   data	    bss	    dec	    hex	filename
+  26192	     96	  20872	  47160	   b838	naebshiki_rocketa.elf
+Finished building: default.size.stdout
+ 
+
+23:21:50 Build Finished. 0 errors, 0 warnings. (took 453ms)
+

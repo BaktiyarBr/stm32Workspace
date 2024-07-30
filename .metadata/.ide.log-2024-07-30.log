@@ -1,0 +1,331 @@
+2024-07-31 00:20:56,946 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 824138104 Bytes (1073741824)
+2024-07-31 00:20:57,012 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 846663784 Bytes (1073741824)
+2024-07-31 00:20:57,501 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 883963008 Bytes (1073741824)
+2024-07-31 00:20:57,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-07-31 00:20:57,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-31 00:20:57,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_DEVICE
+2024-07-31 00:20:57,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-31 00:20:57,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-31 00:20:57,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-07-31 00:20:57,597 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-31 00:20:57,598 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-31 00:20:57,598 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.15.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-31 00:20:57,609 [WARN] IP:2120 - DEVICE_SERIAL0_CDC_FS not found: check if there is a RefParameter without a condition.
+2024-07-31 00:20:57,609 [WARN] IP:2120 - DEVICE_SERIAL1_CDC_FS not found: check if there is a RefParameter without a condition.
+2024-07-31 00:20:57,609 [WARN] IP:2120 - DEVICE_SERIAL2_CDC_FS not found: check if there is a RefParameter without a condition.
+2024-07-31 00:20:57,677 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\license.tmp_save
+2024-07-31 00:20:57,762 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\license.tmp
+2024-07-31 00:20:57,777 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\gpio.tmp_save
+2024-07-31 00:20:57,871 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\gpio.tmp
+2024-07-31 00:20:57,891 [WARN] IPConfigManager:2982 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-07-31 00:20:57,897 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-07-31 00:20:57,979 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-07-31 00:20:57,982 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-07-31 00:20:58,043 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-07-31 00:20:58,046 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-07-31 00:20:58,132 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-07-31 00:20:58,135 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-07-31 00:20:58,219 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-07-31 00:20:58,266 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-31 00:20:58,272 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_inc.tmp_save
+2024-07-31 00:20:58,354 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_inc.tmp
+2024-07-31 00:20:58,357 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelInit.tmp_save
+2024-07-31 00:20:58,417 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelInit.tmp
+2024-07-31 00:20:58,420 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-31 00:20:58,483 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-31 00:20:58,486 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_typedefs.tmp_save
+2024-07-31 00:20:58,545 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_typedefs.tmp
+2024-07-31 00:20:58,548 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_vars.tmp_save
+2024-07-31 00:20:58,614 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_vars.tmp
+2024-07-31 00:20:58,617 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-31 00:20:58,681 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_pfp.tmp
+2024-07-31 00:20:58,685 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-31 00:20:58,754 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-31 00:20:58,758 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-31 00:20:58,814 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_default_thread.tmp
+2024-07-31 00:20:58,817 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_threads.tmp_save
+2024-07-31 00:20:58,873 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_threads.tmp
+2024-07-31 00:20:58,879 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-31 00:20:58,885 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-31 00:20:58,893 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_inc.tmp_save
+2024-07-31 00:20:58,967 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_inc.tmp
+2024-07-31 00:20:58,972 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelInit.tmp_save
+2024-07-31 00:20:59,028 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelInit.tmp
+2024-07-31 00:20:59,033 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-31 00:20:59,088 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-31 00:20:59,093 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_typedefs.tmp_save
+2024-07-31 00:20:59,149 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_typedefs.tmp
+2024-07-31 00:20:59,160 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_vars.tmp_save
+2024-07-31 00:20:59,219 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_vars.tmp
+2024-07-31 00:20:59,223 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-31 00:20:59,279 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_pfp.tmp
+2024-07-31 00:20:59,291 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-31 00:20:59,350 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-31 00:20:59,355 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-31 00:20:59,411 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_default_thread.tmp
+2024-07-31 00:20:59,416 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_threads.tmp_save
+2024-07-31 00:20:59,473 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_threads.tmp
+2024-07-31 00:20:59,485 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\FreeRTOSConfig.h_save
+2024-07-31 00:20:59,558 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\FreeRTOSConfig.h
+2024-07-31 00:20:59,570 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\freertos.c_save
+2024-07-31 00:20:59,633 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\freertos.c
+2024-07-31 00:20:59,644 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-31 00:20:59,660 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usb_device.c_save
+2024-07-31 00:20:59,729 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usb_device.c
+2024-07-31 00:20:59,735 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usb_device.h_save
+2024-07-31 00:20:59,799 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usb_device.h
+2024-07-31 00:20:59,810 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\Target\usbd_conf.h_save
+2024-07-31 00:20:59,875 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\Target\usbd_conf.h
+2024-07-31 00:20:59,886 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\Target\usbd_conf.c_save
+2024-07-31 00:20:59,975 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\Target\usbd_conf.c
+2024-07-31 00:20:59,986 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_desc.h_save
+2024-07-31 00:21:00,047 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_desc.h
+2024-07-31 00:21:00,059 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_desc.c_save
+2024-07-31 00:21:00,142 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_desc.c
+2024-07-31 00:21:00,147 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_cdc_if.h_save
+2024-07-31 00:21:00,212 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_cdc_if.h
+2024-07-31 00:21:00,224 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_cdc_if.c_save
+2024-07-31 00:21:00,307 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_cdc_if.c
+2024-07-31 00:21:00,325 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_it.c_save
+2024-07-31 00:21:00,464 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_it.c
+2024-07-31 00:21:00,469 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\stm32f4xx_it.h_save
+2024-07-31 00:21:00,537 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\stm32f4xx_it.h
+2024-07-31 00:21:00,562 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-31 00:21:00,654 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_hal_msp.c
+2024-07-31 00:21:00,659 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\system.tmp_save
+2024-07-31 00:21:00,727 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\system.tmp
+2024-07-31 00:21:00,739 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-31 00:21:00,806 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-31 00:21:00,837 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-31 00:21:00,930 [INFO] CodeEngine:335 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-31 00:21:00,965 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\main.h_save
+2024-07-31 00:21:01,051 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\main.h
+2024-07-31 00:21:01,064 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\main.c_save
+2024-07-31 00:21:01,185 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\main.c
+2024-07-31 00:21:01,629 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 283mS.
+2024-07-31 00:21:01,636 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-31 00:21:01,704 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-31 00:21:02,480 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 844mS.
+2024-07-31 00:21:02,481 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-07-31 00:21:02,491 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-07-31 00:23:05,219 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 758711424 Bytes (1073741824)
+2024-07-31 00:23:05,282 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 780209280 Bytes (1073741824)
+2024-07-31 00:23:05,764 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 816909440 Bytes (1073741824)
+2024-07-31 00:23:05,855 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-07-31 00:23:05,855 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-31 00:23:05,855 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_DEVICE
+2024-07-31 00:23:05,855 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-31 00:23:05,855 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-31 00:23:05,855 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-07-31 00:23:05,855 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-31 00:23:05,856 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-31 00:23:05,856 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.15.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-31 00:23:05,867 [WARN] IP:2120 - DEVICE_SERIAL0_CDC_FS not found: check if there is a RefParameter without a condition.
+2024-07-31 00:23:05,867 [WARN] IP:2120 - DEVICE_SERIAL1_CDC_FS not found: check if there is a RefParameter without a condition.
+2024-07-31 00:23:05,867 [WARN] IP:2120 - DEVICE_SERIAL2_CDC_FS not found: check if there is a RefParameter without a condition.
+2024-07-31 00:23:05,929 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\license.tmp_save
+2024-07-31 00:23:06,020 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\license.tmp
+2024-07-31 00:23:06,034 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\gpio.tmp_save
+2024-07-31 00:23:06,121 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\gpio.tmp
+2024-07-31 00:23:06,153 [WARN] IPConfigManager:2982 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-07-31 00:23:06,161 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-07-31 00:23:06,236 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-07-31 00:23:06,240 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-07-31 00:23:06,296 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-07-31 00:23:06,299 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-07-31 00:23:06,376 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-07-31 00:23:06,379 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-07-31 00:23:06,467 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-07-31 00:23:06,512 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-31 00:23:06,518 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_inc.tmp_save
+2024-07-31 00:23:06,596 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_inc.tmp
+2024-07-31 00:23:06,600 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelInit.tmp_save
+2024-07-31 00:23:06,655 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelInit.tmp
+2024-07-31 00:23:06,659 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-31 00:23:06,719 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-31 00:23:06,722 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_typedefs.tmp_save
+2024-07-31 00:23:06,777 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_typedefs.tmp
+2024-07-31 00:23:06,780 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_vars.tmp_save
+2024-07-31 00:23:06,844 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_vars.tmp
+2024-07-31 00:23:06,853 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-31 00:23:06,908 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_pfp.tmp
+2024-07-31 00:23:06,911 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-31 00:23:06,976 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-31 00:23:06,979 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-31 00:23:07,035 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_default_thread.tmp
+2024-07-31 00:23:07,038 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_threads.tmp_save
+2024-07-31 00:23:07,094 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_threads.tmp
+2024-07-31 00:23:07,100 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-31 00:23:07,107 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-31 00:23:07,114 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_inc.tmp_save
+2024-07-31 00:23:07,186 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_inc.tmp
+2024-07-31 00:23:07,191 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelInit.tmp_save
+2024-07-31 00:23:07,247 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelInit.tmp
+2024-07-31 00:23:07,251 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-31 00:23:07,307 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-31 00:23:07,312 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_typedefs.tmp_save
+2024-07-31 00:23:07,369 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_typedefs.tmp
+2024-07-31 00:23:07,381 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_vars.tmp_save
+2024-07-31 00:23:07,440 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_vars.tmp
+2024-07-31 00:23:07,445 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-31 00:23:07,503 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_pfp.tmp
+2024-07-31 00:23:07,513 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-31 00:23:07,572 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-31 00:23:07,576 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-31 00:23:07,633 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_default_thread.tmp
+2024-07-31 00:23:07,637 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_threads.tmp_save
+2024-07-31 00:23:07,694 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_threads.tmp
+2024-07-31 00:23:07,706 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\FreeRTOSConfig.h_save
+2024-07-31 00:23:07,779 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\FreeRTOSConfig.h
+2024-07-31 00:23:07,791 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\freertos.c_save
+2024-07-31 00:23:07,853 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\freertos.c
+2024-07-31 00:23:07,859 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-31 00:23:07,872 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usb_device.c_save
+2024-07-31 00:23:07,942 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usb_device.c
+2024-07-31 00:23:07,946 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usb_device.h_save
+2024-07-31 00:23:08,005 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usb_device.h
+2024-07-31 00:23:08,010 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\Target\usbd_conf.h_save
+2024-07-31 00:23:08,070 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\Target\usbd_conf.h
+2024-07-31 00:23:08,081 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\Target\usbd_conf.c_save
+2024-07-31 00:23:08,168 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\Target\usbd_conf.c
+2024-07-31 00:23:08,173 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_desc.h_save
+2024-07-31 00:23:08,231 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_desc.h
+2024-07-31 00:23:08,243 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_desc.c_save
+2024-07-31 00:23:08,327 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_desc.c
+2024-07-31 00:23:08,332 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_cdc_if.h_save
+2024-07-31 00:23:08,390 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_cdc_if.h
+2024-07-31 00:23:08,402 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_cdc_if.c_save
+2024-07-31 00:23:08,485 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_cdc_if.c
+2024-07-31 00:23:08,504 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_it.c_save
+2024-07-31 00:23:08,581 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_it.c
+2024-07-31 00:23:08,586 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\stm32f4xx_it.h_save
+2024-07-31 00:23:08,645 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\stm32f4xx_it.h
+2024-07-31 00:23:08,665 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-31 00:23:08,747 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_hal_msp.c
+2024-07-31 00:23:08,751 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\system.tmp_save
+2024-07-31 00:23:08,815 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\system.tmp
+2024-07-31 00:23:08,827 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-31 00:23:08,890 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-31 00:23:08,906 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-31 00:23:08,993 [INFO] CodeEngine:335 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-31 00:23:09,025 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\main.h_save
+2024-07-31 00:23:09,094 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\main.h
+2024-07-31 00:23:09,105 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\main.c_save
+2024-07-31 00:23:09,226 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\main.c
+2024-07-31 00:23:09,688 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 287mS.
+2024-07-31 00:23:09,694 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-31 00:23:09,768 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-31 00:23:10,456 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 762mS.
+2024-07-31 00:23:10,457 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-07-31 00:23:10,469 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-07-31 00:41:31,930 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,606x463,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-07-31 00:43:01,895 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 822901296 Bytes (1073741824)
+2024-07-31 00:43:01,962 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 844921392 Bytes (1073741824)
+2024-07-31 00:43:02,127 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 870609456 Bytes (1073741824)
+2024-07-31 00:43:02,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-07-31 00:43:02,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-07-31 00:43:02,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_DEVICE
+2024-07-31 00:43:02,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-07-31 00:43:02,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-07-31 00:43:02,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-07-31 00:43:02,215 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-07-31 00:43:02,216 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-07-31 00:43:02,216 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.15.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-07-31 00:43:02,226 [WARN] IP:2120 - DEVICE_SERIAL0_CDC_FS not found: check if there is a RefParameter without a condition.
+2024-07-31 00:43:02,226 [WARN] IP:2120 - DEVICE_SERIAL1_CDC_FS not found: check if there is a RefParameter without a condition.
+2024-07-31 00:43:02,226 [WARN] IP:2120 - DEVICE_SERIAL2_CDC_FS not found: check if there is a RefParameter without a condition.
+2024-07-31 00:43:02,282 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\license.tmp_save
+2024-07-31 00:43:02,362 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\license.tmp
+2024-07-31 00:43:02,376 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\gpio.tmp_save
+2024-07-31 00:43:02,462 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\gpio.tmp
+2024-07-31 00:43:02,481 [WARN] IPConfigManager:2982 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-07-31 00:43:02,487 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_vars.tmp_save
+2024-07-31 00:43:02,570 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_vars.tmp
+2024-07-31 00:43:02,573 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_inc.tmp_save
+2024-07-31 00:43:02,627 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_inc.tmp
+2024-07-31 00:43:02,630 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_HalInit.tmp_save
+2024-07-31 00:43:02,709 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_HalInit.tmp
+2024-07-31 00:43:02,712 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_Msp.tmp_save
+2024-07-31 00:43:02,789 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\usb_otg_fs_Msp.tmp
+2024-07-31 00:43:02,835 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-31 00:43:02,840 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_inc.tmp_save
+2024-07-31 00:43:02,915 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_inc.tmp
+2024-07-31 00:43:02,918 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelInit.tmp_save
+2024-07-31 00:43:02,973 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelInit.tmp
+2024-07-31 00:43:02,976 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-31 00:43:03,036 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-31 00:43:03,039 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_typedefs.tmp_save
+2024-07-31 00:43:03,095 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_typedefs.tmp
+2024-07-31 00:43:03,098 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_vars.tmp_save
+2024-07-31 00:43:03,162 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_vars.tmp
+2024-07-31 00:43:03,165 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-31 00:43:03,220 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_pfp.tmp
+2024-07-31 00:43:03,224 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-31 00:43:03,293 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-31 00:43:03,296 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-31 00:43:03,358 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_default_thread.tmp
+2024-07-31 00:43:03,361 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_threads.tmp_save
+2024-07-31 00:43:03,416 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_threads.tmp
+2024-07-31 00:43:03,422 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-31 00:43:03,428 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-31 00:43:03,434 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_inc.tmp_save
+2024-07-31 00:43:03,511 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_inc.tmp
+2024-07-31 00:43:03,516 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelInit.tmp_save
+2024-07-31 00:43:03,574 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelInit.tmp
+2024-07-31 00:43:03,579 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-07-31 00:43:03,644 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_kernelStart.tmp
+2024-07-31 00:43:03,648 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_typedefs.tmp_save
+2024-07-31 00:43:03,713 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_typedefs.tmp
+2024-07-31 00:43:03,725 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_vars.tmp_save
+2024-07-31 00:43:03,792 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_vars.tmp
+2024-07-31 00:43:03,797 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_pfp.tmp_save
+2024-07-31 00:43:03,884 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_pfp.tmp
+2024-07-31 00:43:03,896 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-07-31 00:43:03,957 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_obj_creat.tmp
+2024-07-31 00:43:03,962 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_default_thread.tmp_save
+2024-07-31 00:43:04,020 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_default_thread.tmp
+2024-07-31 00:43:04,026 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_threads.tmp_save
+2024-07-31 00:43:04,085 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\rtos_threads.tmp
+2024-07-31 00:43:04,097 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\FreeRTOSConfig.h_save
+2024-07-31 00:43:04,183 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\FreeRTOSConfig.h
+2024-07-31 00:43:04,195 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\freertos.c_save
+2024-07-31 00:43:04,256 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\freertos.c
+2024-07-31 00:43:04,263 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-07-31 00:43:04,276 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usb_device.c_save
+2024-07-31 00:43:04,347 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usb_device.c
+2024-07-31 00:43:04,351 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usb_device.h_save
+2024-07-31 00:43:04,417 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usb_device.h
+2024-07-31 00:43:04,422 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\Target\usbd_conf.h_save
+2024-07-31 00:43:04,481 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\Target\usbd_conf.h
+2024-07-31 00:43:04,493 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\Target\usbd_conf.c_save
+2024-07-31 00:43:04,579 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\Target\usbd_conf.c
+2024-07-31 00:43:04,585 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_desc.h_save
+2024-07-31 00:43:04,644 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_desc.h
+2024-07-31 00:43:04,656 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_desc.c_save
+2024-07-31 00:43:04,739 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_desc.c
+2024-07-31 00:43:04,744 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_cdc_if.h_save
+2024-07-31 00:43:04,803 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_cdc_if.h
+2024-07-31 00:43:04,815 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_cdc_if.c_save
+2024-07-31 00:43:04,899 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\USB_DEVICE\App\usbd_cdc_if.c
+2024-07-31 00:43:04,917 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_it.c_save
+2024-07-31 00:43:05,075 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_it.c
+2024-07-31 00:43:05,080 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\stm32f4xx_it.h_save
+2024-07-31 00:43:05,138 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\stm32f4xx_it.h
+2024-07-31 00:43:05,159 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_hal_msp.c_save
+2024-07-31 00:43:05,240 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_hal_msp.c
+2024-07-31 00:43:05,244 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\system.tmp_save
+2024-07-31 00:43:05,305 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\MXTmpFiles\system.tmp
+2024-07-31 00:43:05,316 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-07-31 00:43:05,385 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-07-31 00:43:05,400 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-07-31 00:43:05,488 [INFO] CodeEngine:335 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\stm32f4xx_hal_conf.h
+2024-07-31 00:43:05,518 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\main.h_save
+2024-07-31 00:43:05,600 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Inc\main.h
+2024-07-31 00:43:05,612 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\main.c_save
+2024-07-31 00:43:05,733 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\test_board\Core\Src\main.c
+2024-07-31 00:43:06,193 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 283mS.
+2024-07-31 00:43:06,200 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-07-31 00:43:06,285 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-07-31 00:43:07,104 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 903mS.
+2024-07-31 00:43:07,105 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 1mS.
+2024-07-31 00:43:07,115 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.

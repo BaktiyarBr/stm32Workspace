@@ -1,0 +1,36 @@
+2024-04-30 00:12:02,800 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 762391376 Bytes (1073741824)
+2024-04-30 00:12:02,906 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 785364984 Bytes (1073741824)
+2024-04-30 00:12:03,652 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 830915440 Bytes (1073741824)
+2024-04-30 00:12:03,863 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-04-30 00:12:03,863 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-04-30 00:12:03,863 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-04-30 00:12:03,863 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-04-30 00:12:03,863 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-04-30 00:12:03,864 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-04-30 00:12:03,865 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.15.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.0.202403141607\\db\
+2024-04-30 00:12:03,992 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\license.tmp_save
+2024-04-30 00:12:04,145 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\license.tmp
+2024-04-30 00:12:04,189 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\gpio.tmp_save
+2024-04-30 00:12:04,289 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\gpio.tmp
+2024-04-30 00:12:04,447 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\stm32f4xx_it.c_save
+2024-04-30 00:12:04,652 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\stm32f4xx_it.c
+2024-04-30 00:12:04,669 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\stm32f4xx_it.h_save
+2024-04-30 00:12:04,746 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\stm32f4xx_it.h
+2024-04-30 00:12:04,782 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\stm32f4xx_hal_msp.c_save
+2024-04-30 00:12:04,918 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\stm32f4xx_hal_msp.c
+2024-04-30 00:12:04,929 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\system.tmp_save
+2024-04-30 00:12:04,998 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\system.tmp
+2024-04-30 00:12:05,020 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-04-30 00:12:05,111 [INFO] CodeEngine:335 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\stm32f4xx_hal_conf.h
+2024-04-30 00:12:05,135 [WARN] IPConfigManager:3513 - IP not found : TIM
+2024-04-30 00:12:05,136 [WARN] CodeGenerator:3951 - IP not found : null
+2024-04-30 00:12:05,159 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\main.h_save
+2024-04-30 00:12:05,254 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\main.h
+2024-04-30 00:12:05,273 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\main.c_save
+2024-04-30 00:12:05,404 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\main.c
+2024-04-30 00:12:05,841 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 253mS.
+2024-04-30 00:12:05,845 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-04-30 00:12:05,930 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-04-30 00:12:07,076 [INFO] ProjectBuilder:5002 - Time for Generating toolchain IDE Files: 1230mS.
+2024-04-30 00:12:07,076 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.
+2024-04-30 00:12:07,079 [INFO] ProjectBuilder:3034 - Time for Copy CMSIS : 0mS.

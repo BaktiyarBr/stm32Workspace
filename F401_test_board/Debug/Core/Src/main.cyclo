@@ -1,0 +1,13 @@
+../Core/Src/main.c:113:6:HAL_SPI_TxRxCpltCallback	1
+../Core/Src/main.c:119:6:sendStringOverUSB	1
+../Core/Src/main.c:126:6:servo_deg	2
+../Core/Src/main.c:137:5:main	1
+../Core/Src/main.c:239:6:SystemClock_Config	3
+../Core/Src/main.c:285:13:MX_SPI2_Init	2
+../Core/Src/main.c:323:13:MX_TIM2_Init	5
+../Core/Src/main.c:374:13:MX_DMA_Init	1
+../Core/Src/main.c:395:13:MX_GPIO_Init	1
+../Core/Src/main.c:462:6:StartDefaultTask	1
+../Core/Src/main.c:483:6:StartTask02	2
+../Core/Src/main.c:516:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:533:6:Error_Handler	1

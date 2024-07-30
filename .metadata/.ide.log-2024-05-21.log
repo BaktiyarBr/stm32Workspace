@@ -1,0 +1,99 @@
+2024-05-22 01:11:01,399 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-05-22 01:11:01,422 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-05-22 01:11:01,422 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-05-22 01:11:01,422 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-05-22 01:11:01,670 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-05-22 01:11:01,670 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-05-22 01:11:01,671 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-05-22 01:11:01,671 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-05-22 01:32:49,872 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 440089208 Bytes (657457152)
+2024-05-22 01:32:49,987 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 458943480 Bytes (657457152)
+2024-05-22 01:32:50,279 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 483871856 Bytes (657457152)
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SPI
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: FREERTOS
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SDIO
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: TIM1_8
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: SYS
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: ADC
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: RCC
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: I2C
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USB_OTG_FS
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: NVIC
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-05-22 01:32:50,647 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: USART
+2024-05-22 01:32:50,648 [INFO] BlockDiagram:2759 - set Specific Code input for plugin: GPIO
+2024-05-22 01:32:50,649 [INFO] CodeGenerator:807 - code generatio: config db path: C:\ST\STM32CubeIDE_1.15.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.11.1.202404110753\\db\
+2024-05-22 01:32:50,687 [WARN] IP:2120 - I2C_Coeff_DF not found: check if there is a RefParameter without a condition.
+2024-05-22 01:32:50,687 [WARN] IP:2120 - Analog_Filter not found: check if there is a RefParameter without a condition.
+2024-05-22 01:32:51,003 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\license.tmp_save
+2024-05-22 01:32:51,315 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\license.tmp
+2024-05-22 01:32:51,393 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\gpio.tmp_save
+2024-05-22 01:32:51,527 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\gpio.tmp
+2024-05-22 01:32:52,121 [WARN] IPConfigManager:2982 - Warning: the RefConfig PWREx_EnableUSBVoltageDetector is not available in your config.xml file
+2024-05-22 01:32:52,160 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-22 01:32:52,173 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_inc.tmp_save
+2024-05-22 01:32:52,265 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_inc.tmp
+2024-05-22 01:32:52,276 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_vars.tmp_save
+2024-05-22 01:32:52,365 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_vars.tmp
+2024-05-22 01:32:52,376 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_pfp.tmp_save
+2024-05-22 01:32:52,456 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_pfp.tmp
+2024-05-22 01:32:52,468 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-05-22 01:32:52,553 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_obj_creat.tmp
+2024-05-22 01:32:52,563 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-05-22 01:32:52,635 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_kernelStart.tmp
+2024-05-22 01:32:52,647 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_default_thread.tmp_save
+2024-05-22 01:32:52,738 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_default_thread.tmp
+2024-05-22 01:32:52,750 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_threads.tmp_save
+2024-05-22 01:32:52,816 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_threads.tmp
+2024-05-22 01:32:52,845 [INFO] Middleware:1439 - No code input for Bsp Dependency
+2024-05-22 01:32:52,854 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_inc.tmp_save
+2024-05-22 01:32:52,925 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_inc.tmp
+2024-05-22 01:32:52,930 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_vars.tmp_save
+2024-05-22 01:32:52,991 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_vars.tmp
+2024-05-22 01:32:52,997 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_pfp.tmp_save
+2024-05-22 01:32:53,056 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_pfp.tmp
+2024-05-22 01:32:53,067 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_obj_creat.tmp_save
+2024-05-22 01:32:53,129 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_obj_creat.tmp
+2024-05-22 01:32:53,134 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_kernelStart.tmp_save
+2024-05-22 01:32:53,192 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_kernelStart.tmp
+2024-05-22 01:32:53,198 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_default_thread.tmp_save
+2024-05-22 01:32:53,257 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_default_thread.tmp
+2024-05-22 01:32:53,263 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_threads.tmp_save
+2024-05-22 01:32:53,326 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\rtos_threads.tmp
+2024-05-22 01:32:53,347 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\FreeRTOSConfig.h_save
+2024-05-22 01:32:53,445 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\FreeRTOSConfig.h
+2024-05-22 01:32:53,466 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\freertos.c_save
+2024-05-22 01:32:53,558 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\freertos.c
+2024-05-22 01:32:53,593 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\stm32f4xx_it.c_save
+2024-05-22 01:32:53,712 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\stm32f4xx_it.c
+2024-05-22 01:32:53,731 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\stm32f4xx_it.h_save
+2024-05-22 01:32:53,810 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\stm32f4xx_it.h
+2024-05-22 01:32:53,841 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\stm32f4xx_hal_msp.c_save
+2024-05-22 01:32:54,058 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\stm32f4xx_hal_msp.c
+2024-05-22 01:32:54,075 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\system.tmp_save
+2024-05-22 01:32:54,143 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\MXTmpFiles\system.tmp
+2024-05-22 01:32:54,161 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\stm32f4xx_hal_timebase_tim.c_save
+2024-05-22 01:32:54,244 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\stm32f4xx_hal_timebase_tim.c
+2024-05-22 01:32:54,269 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\stm32f4xx_hal_conf.h_save
+2024-05-22 01:32:54,366 [INFO] CodeEngine:335 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\stm32f4xx_hal_conf.h
+2024-05-22 01:32:54,402 [WARN] IPConfigManager:3513 - IP not found : TIM
+2024-05-22 01:32:54,402 [WARN] IPConfigManager:3513 - IP not found : USB_OTG
+2024-05-22 01:32:54,404 [WARN] CodeGenerator:3951 - IP not found : null
+2024-05-22 01:32:54,404 [WARN] CodeGenerator:3951 - IP not found : null
+2024-05-22 01:32:54,427 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\main.h_save
+2024-05-22 01:32:54,534 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Inc\main.h
+2024-05-22 01:32:54,556 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\main.c_save
+2024-05-22 01:32:54,792 [INFO] CodeEngine:279 - Generated code: C:\Users\bnarb\STM32CubeIDE\workspace_1.15.0\naebshiki_rocketa\Core\Src\main.c
+2024-05-22 01:32:55,347 [INFO] ProjectBuilder:3163 - Time for Copy HAL[1] : 357mS.
+2024-05-22 01:32:55,357 [INFO] ProjectBuilder:4736 - Project Generator version: 4.3.0-B58
+2024-05-22 01:32:55,444 [INFO] ConfigFileManager:1503 - The Die is : DIE413
+2024-05-22 01:32:55,456 [INFO] ApiDbMcu:508 - Load IP Config File for FATFS
+2024-05-22 01:32:55,466 [INFO] ApiDbMcu:508 - Load IP Config File for LIBJPEG
+2024-05-22 01:32:55,480 [INFO] ApiDbMcu:508 - Load IP Config File for MBEDTLS
+2024-05-22 01:32:55,495 [INFO] ApiDbMcu:508 - Load IP Config File for USB_DEVICE
+2024-05-22 01:32:55,508 [INFO] ApiDbMcu:508 - Load IP Config File for USB_HOST
