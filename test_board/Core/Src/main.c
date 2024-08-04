@@ -221,7 +221,8 @@ int main(void)
   /* USER CODE END RTOS_EVENTS */
 
   /* Start scheduler */
-  osKernelStart();
+  //!!!!!!!!!!!!! no freeRTOS
+  //osKernelStart();
 
   /* We should never get here as control is now taken by the scheduler */
 
@@ -232,7 +233,19 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
+	  if(BNO080_dataAvailable() == 1)
+	  	  	  		  {
+	  	  	  			  q[0] = BNO080_getQuatI();
+	  	  	  			  q[1] = BNO080_getQuatJ();
+	  	  	  			  q[2] = BNO080_getQuatK();
+	  	  	  			  q[3] = BNO080_getQuatReal();
+	  	  	  			  quatRadianAccuracy = BNO080_getQuatRadianAccuracy();
+	  	  	  			  Quaternion_Update(&q[0]);
 
+	  //	  	  			  sprintf(str, "%.2f, %.2f, %.2f\n\r", BNO080_Pitch, BNO080_Roll, BNO080_Yaw);
+	  //	  	  			  sendStringOverUSB(str);
+
+	  	  	  		  }
   }
   /* USER CODE END 3 */
 }
